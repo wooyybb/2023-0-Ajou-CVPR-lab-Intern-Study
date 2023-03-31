@@ -1,0 +1,3 @@
+# download in http://cs231n.stanford.edu/schedule.html
+# Lecture 8 Visualizing and Understanding
+# Lecture 12 Video Understanding
